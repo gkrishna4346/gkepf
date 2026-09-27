@@ -41,6 +41,7 @@
     { name: "Paper Mind : AI", blurb: "PDF Reader and RAG-style Q&A assistant answering any questions from the uploaded documents.", tags: ["GenAI","RAG","NLP"], link: "https://paper-mind-ai.onrender.com/", signature: true },
     { name: "Predictive Maintenance", blurb: "Capstone ML app forecasting equipment failure to reduce downtime.", tags: ["ML","Streamlit","Capstone"], link: "https://gkrishna4346-predictive-maintenance-capsto-deploymentapp-vbhras.streamlit.app/" },
     { name: "Visualized GIT Commands", blurb: "Visualizing Git commands for beginners", tags: ["Git","GitHub","Commands"], link: "https://gkrishna4346.github.io/visualized-git-commands/" },
+    { name: "Visualized SQL Queries", blurb: "Visualizing SQL Queries for beginners", tags: ["SQL","sql","Queries"], link: "https://gkrishna4346.github.io/visualized-sql-queries/" },
     { name: "Tourism Package Prediction", blurb: "MLOps app predicting customer package purchase propensity.", tags: ["MLOps","HuggingFace"], link: "https://huggingface.co/spaces/gkrishna4346/tourism-mlops-app" },
     { name: "HR Policy QA Bot", blurb: "RAG-style assistant answering airline HR policy questions.", tags: ["GenAI","RAG","NLP"], link: "https://gk-airlines-hr-policy-bot.streamlit.app/" },
     { name: "Pulse — Know Your Speed", blurb: "Interactive typing & reaction speed analytics tool.", tags: ["Analytics","Streamlit"], link: "https://pulse-know-your-speed.streamlit.app/" },
