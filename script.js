@@ -46,8 +46,7 @@
     { name: "Pulse — Know Your Speed", blurb: "Interactive typing & reaction speed analytics tool.", tags: ["Analytics","Streamlit"], link: "https://pulse-know-your-speed.streamlit.app/" },
     { name: "Chitti eCoach", blurb: "AI coaching companion for guided learning.", tags: ["GenAI","Coach"], link: "https://chitti-ecoach.onrender.com/" },
     { name: "Buy-thon — Smart Vending", blurb: "Smart vending machine simulation with a Python core.", tags: ["Python","Simulation"], link: "https://buython.streamlit.app/" },
-    { name: "குறளும் பொருளும்", blurb: "Thirukkural explorer surfacing couplets with meaning.", tags: ["Tamil","NLP"], link: "https://gkrishna4346-kural-thedal-app-k4n7fp.streamlit.app/" },
-    { name: "Kural Quest", blurb: "Gamified Thirukkural learning quest.", tags: ["Game","Tamil"], link: "https://kural-quest.streamlit.app/" },
+    { name: "குறளும் பொருளும்", blurb: "Thirukkural explorer surfacing couplets with meaning.", tags: ["Tamil","NLP"], link: "https://gkrishna4346.github.io/kuralum-porulum-html/" }
   ];
 
   var manifesto = [
