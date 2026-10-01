@@ -44,6 +44,7 @@
     { name: "Visualized SQL Queries", blurb: "Visualizing SQL Queries for beginners", tags: ["SQL","sql","Queries"], link: "https://gkrishna4346.github.io/visualized-sql-queries/" },
     { name: "Visualized Python Codings", blurb: "Visualizing Python Codings for beginners", tags: ["Python","Python Codings","Codings"], link: "https://gkrishna4346.github.io/visualized-python-codings/" },
     { name: "Visualized GIT Commands", blurb: "Visualizing Git commands for beginners", tags: ["Git","GitHub","Commands"], link: "https://gkrishna4346.github.io/visualized-git-commands/" },
+    { name: "Visualized Shell Commands", blurb: "Visualizing Shell commands for beginners", tags: ["Shell","CMD","Bash", "Commands"], link: "https://gkrishna4346.github.io/visualized-shell-commands/" },
     { name: "Tourism Package Prediction", blurb: "MLOps app predicting customer package purchase propensity.", tags: ["MLOps","HuggingFace"], link: "https://huggingface.co/spaces/gkrishna4346/tourism-mlops-app" },
     { name: "HR Policy QA Bot", blurb: "RAG-style assistant answering airline HR policy questions.", tags: ["GenAI","RAG","NLP"], link: "https://gk-airlines-hr-policy-bot.streamlit.app/" },
     { name: "Pulse — Know Your Speed", blurb: "Interactive typing & reaction speed analytics tool.", tags: ["Analytics","Streamlit"], link: "https://pulse-know-your-speed.streamlit.app/" },
