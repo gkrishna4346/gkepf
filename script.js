@@ -41,6 +41,7 @@
     { name: "Paper Mind : AI", blurb: "PDF Reader and RAG-style Q&A assistant answering any questions from the uploaded documents.", tags: ["GenAI","RAG","NLP"], link: "https://paper-mind-ai.onrender.com/", signature: true },
     { name: "Battery Clinic - AI", blurb: "Laptop Battery Health Predicting Tool.", tags: ["ML","Streamlit","Capstone"], link: "https://battery-clinic-ai.streamlit.app/", signature: true },
     { name: "Predictive Maintenance", blurb: "Capstone ML app forecasting equipment failure to reduce downtime.", tags: ["ML","Streamlit","Capstone"], link: "https://gkrishna4346-predictive-maintenance-capsto-deploymentapp-vbhras.streamlit.app/" },
+    { name: "Le Petit Bavard", blurb: "A French Learning Application.", tags: ["French","Learning","Tutor", "Eugene", "Eugène"], link: "https://gkrishna4346.github.io/le-petit-bavard/" },
     { name: "Visualized Excel Functions", blurb: "Visualizing Excel Functions for beginners", tags: ["Excel","Advanced Excel","Functions"], link: "https://gkrishna4346.github.io/visualized-excel-functions/" },
     { name: "Visualized SQL Queries", blurb: "Visualizing SQL Queries for beginners", tags: ["SQL","sql","Queries"], link: "https://gkrishna4346.github.io/visualized-sql-queries/" },
     { name: "Visualized Python Codings", blurb: "Visualizing Python Codings for beginners", tags: ["Python","Python Codings","Codings"], link: "https://gkrishna4346.github.io/visualized-python-codings/" },
